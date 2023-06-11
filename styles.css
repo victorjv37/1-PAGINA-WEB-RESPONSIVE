@@ -1,0 +1,16 @@
+* {
+  outline: 1px solid red;
+}
+#title {
+  display:block;
+  height: 150px;
+  width: 100%;
+}
+#article {
+ display:inline;
+ margin: auto;
+}
+#img {
+  height: 200px;
+  width: 230px;
+}
